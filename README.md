@@ -13,7 +13,7 @@ This is a solution to the [FAQ accordion card challenge on Frontend Mentor](http
 ### Links
 
 - Solution URL: [solution URL ](https://github.com/DavidIrvine-TW/frontend-Mentor-accordian-card-solution)
-- Live Site URL: [live site](https://your-live-site-url.com)
+- Live Site URL: [live site](https://davidirvine-tw.github.io/frontend-Mentor-accordian-card-solution/)
 
 ## My process
 
